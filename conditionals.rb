@@ -1,4 +1,4 @@
-def check_name_length 
+def check_name_length(name) 
   if name.length > 20 
   puts "super long name"
 elsif name.length > 10 
