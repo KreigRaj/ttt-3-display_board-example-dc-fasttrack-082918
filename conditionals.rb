@@ -6,7 +6,7 @@ puts "thats a long name"
 elsif name.length > 0 
 puts "thats a short name"
 else 
-  puts "thats and empty name"
+  puts "thats an empty name"
  end
 end
 
